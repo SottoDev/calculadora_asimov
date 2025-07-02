@@ -11,4 +11,4 @@ Uma calculadora simples feita em Python que realiza operações matemáticas bá
 
 ## 🛠️ Tecnologias
 
-- Python 3.10+
+- Python 3.13
